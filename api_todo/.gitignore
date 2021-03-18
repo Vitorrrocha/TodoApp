@@ -1,0 +1,9 @@
+venv
+/venv/
+.env
+.venv
+.venv/
+env
+ENV/
+env/
+venv/.pytest_cache
